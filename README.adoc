@@ -1,2 +1,2 @@
 # bieganie.asc
-image::http://dbam-o-siebie.pl/wp-content/uploads/2014/07/dlaczego-warto-zaczac-biegac.jpg
+image::http://dbam-o-siebie.pl/wp-content/uploads/2014/07/dlaczego-warto-zaczac-biegac.jpg[biegacz]
